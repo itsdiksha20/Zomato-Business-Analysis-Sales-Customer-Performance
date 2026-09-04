@@ -113,3 +113,4 @@ SQL was used to analyze:
 An interactive Tableau dashboard was created to visualize revenue, AOV, customer behavior, cuisines, acquisition channels, churn, cancellations, and refunds.
 
 ---
+[Dashboard](https://github.com/itsdiksha20/Zomato-Business-Analysis-Sales-Customer-Performance/blob/main/Dashboard%20final.pdf)
